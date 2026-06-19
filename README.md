@@ -1,6 +1,6 @@
 # 妙响 (MUSE SONG) AI 音乐 Skill
 
-**中文| [英文](README-ENG.md)**
+**中文| [English](README-ENG.md)**
 
 ---
 
