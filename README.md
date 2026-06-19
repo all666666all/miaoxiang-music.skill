@@ -1,6 +1,6 @@
 # 妙响 (MUSE SONG) AI 音乐 Skill
 
-**中文 | [英文](README-ENG.md) **
+**中文** | ** [英文](README-ENG.md) **
 
 一个 [Claude Skill](https://www.anthropic.com/news/skills)，封装了 **妙响 (MUSE SONG)**——**汽水音乐 / 抖音音乐创作实验室**旗下 AI 音乐创作发行平台——的音乐创作方法论。
 
