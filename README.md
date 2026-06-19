@@ -1,5 +1,7 @@
 # 妙响 (MUSE SONG) AI Music Skill
 
+**English | [中文](README.zh-CN.md)**
+
 A [Claude Skill](https://www.anthropic.com/news/skills) that encodes the music-creation methodology for **妙响 (MUSE SONG)** — the AI music creation + distribution platform of **汽水音乐 / 抖音音乐创作实验室**.
 
 Once installed, Claude can help you write music-generation prompts, pick and fuse genres, write lyrics and hooks, choose a generation model, troubleshoot AI output, and optimize a track for 汽水 cold-start traffic — without you having to paste reference material each time.
